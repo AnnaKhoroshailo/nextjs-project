@@ -1,0 +1,1 @@
+{"ast":null,"code":"function MeetUpDetails() {}\n\nexport default MeetUpDetails;","map":{"version":3,"sources":["/Users/user/projects/nextjs-second/pages/[meetupId].js"],"names":["MeetUpDetails"],"mappings":"AAAA,SAASA,aAAT,GAAyB,CAAE;;AAE3B,eAAeA,aAAf","sourcesContent":["function MeetUpDetails() {}\n\nexport default MeetUpDetails;\n"]},"metadata":{},"sourceType":"module"}
